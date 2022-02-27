@@ -1,0 +1,67 @@
+*{
+    margin-top: 0px;
+    padding: 0px;
+    
+}
+.design {
+    padding: 0%;
+    position: absolute;
+}
+.one {
+    background-color: red;
+    position: fixed;
+    width: 300px;
+    height: 300px;
+}
+.two {
+    background-color: yellow;
+    margin-top: -10px;
+    width: 300px;
+    height: 155px;
+    margin-left: 300px; 
+    margin-bottom: 250px;
+    margin-top: 0%;   
+}
+.four {
+    background-color: rgb(63, 165, 63);
+    width: 300px;
+    height: 165px;
+    margin-left: -300px;
+    margin-bottom: 300px;
+    margin-top: 155px;
+}
+.three {
+    background-color: rgba(174, 43, 179, 0.815);
+    width: 100px;
+    height: 302px;
+    margin-top: -155px;
+    margin-left: 300px;   
+}
+.five {
+    background-color: rgb(255, 136, 0);
+    width: 600px;
+    height: 70px;
+    margin-top: 190px;
+    margin-left: -600px;
+}
+.six {
+    background-color: rgb(0, 162, 255);
+    width: 50px;
+    height: 70px;
+    margin-left: 600px;
+    margin-top: -80px;   
+}
+.seven {
+    background-color: rgba(140, 0, 255, 0.438);
+    width: 250px;
+    height: 150px;
+    margin-left: 50px;
+    margin-top: -35px;  
+}
+.eight {
+    background-color: rgba(255, 196, 0, 0.685);
+    width: 450px;
+    height: 82px;
+    margin-top: 96px;
+    margin-left: -450px; 
+}
